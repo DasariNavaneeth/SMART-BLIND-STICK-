@@ -1,6 +1,6 @@
-# 🦯 Smart Blind Stick for Visually Impaired Individuals  
+#  Smart Blind Stick for Visually Impaired Individuals  
 ---
-## 📌 Overview  
+##  Overview  
 
 The **Smart Blind Stick** is an assistive device designed to help visually impaired individuals navigate safely.  
 It integrates multiple sensors to detect obstacles, measure depth, detect falls, and send GPS location alerts to family members via **Twilio SMS**.  
@@ -8,7 +8,7 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 
 ---
 
-## 🧩 Components Used  
+##  Components Used  
 
 - Raspberry Pi Pico  
 - GPS Module  
@@ -22,7 +22,7 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 
 ---
 
-## ⚙️ Features  
+##  Features  
 
 ### 🔹 Obstacle Detection  
 - Ultrasonic sensor detects nearby obstacles and alerts the user through a buzzer.  
@@ -48,7 +48,7 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 
 ---
 
-## ✅ Applications  
+##  Applications  
 
 - Navigation assistance for visually impaired individuals  
 - Safety enhancement during walking or mobility  
@@ -56,13 +56,13 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 
 ---
 
-## 🧠 Programming Language  
+##  Programming Language  
 
 - **MicroPython** (for Raspberry Pi Pico)  
 
 ---
 
-## 🧰 Future Improvements  
+##  Future Improvements  
 
 - Add **voice feedback** using a speaker module  
 - Integrate **Bluetooth** or **Wi-Fi** tracking for live monitoring  
