@@ -24,24 +24,24 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 
 ##  Features  
 
-### 🔹 Obstacle Detection  
+###  Obstacle Detection  
 - Ultrasonic sensor detects nearby obstacles and alerts the user through a buzzer.  
 
-### 🔹 Depth Detection  
+###  Depth Detection  
 - Another ultrasonic sensor measures the depth of drop-offs or steps to prevent falls.  
 
-### 🔹 Fall Detection with Delay  
+###  Fall Detection with Delay  
 - The gyroscope detects if the user falls.  
 - After a **10-second delay**, the GPS module sends the user’s location to family members via **Twilio SMS**.  
 - The delay allows the user to cancel **false alarms**.  
 
-### 🔹 Manual Location Alert  
+###  Manual Location Alert  
 - Pressing the **push button** sends the user’s GPS location immediately via **Twilio SMS**.  
 
-### 🔹 GPS Fallback via IP  
+###  GPS Fallback via IP  
 - If GPS fails to get a fix, the system uses **IP-based geolocation** to fetch an approximate location and send it via Twilio SMS.  
 
-### 🔹 Buzzer Alerts  
+###  Buzzer Alerts  
 - Different **beep patterns** indicate:
   - Depth detection  
   - Obstacle detection  
