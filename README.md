@@ -11,7 +11,7 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 ##  Components Used  
 
 - Raspberry Pi Pico  
-- GPS Module  
+- GPS Module   
 - Ultrasonic Sensors (x2)  
 - Gyroscope Sensor  
 - Buzzer  
