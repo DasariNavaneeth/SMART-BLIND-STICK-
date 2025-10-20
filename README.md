@@ -62,9 +62,4 @@ The stick provides real-time feedback through a **buzzer**, ensuring both safety
 
 ---
 
-##  Future Improvements  
 
-- Add **voice feedback** using a speaker module  
-- Integrate **Bluetooth** or **Wi-Fi** tracking for live monitoring  
-- Use **rechargeable Li-ion battery** for portable
-  
